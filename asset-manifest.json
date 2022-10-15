@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BodyMassIndex/static/css/main.29cd549e.css",
+    "main.js": "/BodyMassIndex/static/js/main.03cea10e.js",
+    "static/js/787.3ef8fb84.chunk.js": "/BodyMassIndex/static/js/787.3ef8fb84.chunk.js",
+    "index.html": "/BodyMassIndex/index.html",
+    "main.29cd549e.css.map": "/BodyMassIndex/static/css/main.29cd549e.css.map",
+    "main.03cea10e.js.map": "/BodyMassIndex/static/js/main.03cea10e.js.map",
+    "787.3ef8fb84.chunk.js.map": "/BodyMassIndex/static/js/787.3ef8fb84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29cd549e.css",
+    "static/js/main.03cea10e.js"
+  ]
+}
